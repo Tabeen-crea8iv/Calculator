@@ -1,0 +1,74 @@
+.main{
+    border: 5px solid grey;
+    width: 250px;
+    background-color:yellowgreen;
+    margin: 0 auto;}
+.result{
+    color: yellowgreen;
+    margin-top: 1rem;
+    background-color:black;
+    width: 243px;
+}
+.btn{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 1rem;
+    background-color:black;
+    color:yellowgreen;
+}
+.clearBtn{
+    width: 100%;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 1rem;
+    background-color:black;
+    color:yellowgreen;
+}
+
+.equalBtn{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 1rem;
+    background-color:black;
+    color:yellowgreen;
+}
+.zeroBtn{
+    margin-left: 0.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 1rem;
+    background-color:black;
+    color:yellowgreen;
+    margin-bottom: 1rem;
+}
+.obtn{
+    margin-left: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1rem;
+  background-color:black;
+  color:yellowgreen;
+}
+.sbtn{
+    margin-left: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1rem;
+  background-color:black;
+  color:yellowgreen;
+}
+.fbtn{
+    margin-left: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1rem;
+  background-color:black;
+  color:yellowgreen;
+}
+.pbtn{
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  margin-top: 1rem;
+  background-color:black;
+  color:yellowgreen;
+}
